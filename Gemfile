@@ -6,6 +6,7 @@ gem 'kramdown-parser-gfm'
 gem 'google_drive'
 gem 'notion'
 gem 'httplog'
+gem 'jekyll-toc'
 
 gem "uuid", "~> 2.3"
 gem "jekyll-tabs"

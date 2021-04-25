@@ -3,7 +3,8 @@ layout: simple
 author_profile: false
 permalink: /
 classes: wide
-title:
+title: Iiolonioro LLC
+toc: true
 ---
 
   * is an Intellectual Property holding company.
@@ -31,21 +32,14 @@ title:
 Each of the following Series represents a body of intellectual property
 with independent stakeholders.
 
-<dl>
-  <dt>[ICTIA](/engage)</dt>
-  <dd>
+### [ICTIA](/engage)
   Identity, Credential, and Trust technology industry analytics.
-  </dd>
-  <dt>[ABC](/engage)</dt>
-  <dd>
+
+### [ABC](/engage)
   Specific ICAO/SITA/IATA dimension of air border control
-  </dd>
-  <dt>[IAS](/engage)</dt>
-  <dd>
+
+### [IAS](/engage)
   Key identity anchor systems.
-  </dd>
-  <dt>[Legislation](/engage)</dt>
-  <dd>
+
+### [Legislation](/engage)
   Global legislation, enforcement, successes, failures, and abuses.
-  </dd>
-</dl>
