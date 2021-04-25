@@ -5,23 +5,47 @@ permalink: /
 classes: wide
 title:
 ---
-# Iiolonioro LLC
+
   * is an Intellectual Property holding company.
-  * Interaction with the LLC should take place via
-    * Aries DID-COMM when possible
-    * via the [operations repository](https://github.com/Iiolonioro/official-business-record)
   * is a Wyoming company, with EIN TBD with a registered agent at ADDRESS
   * works solely by licensing read-only intellectual
   property, in the form of data feeds, to licensees.
+  * outsider interaction with the LLC should take place via
+    * Aries DID-COMM when possible
+    * via the [operations repository](https://github.com/Iiolonioro/official-business-record), after authentication
+  * insiders can [Engage](/engage) here.
   * is a Series LLC with independent pools of intellectual
   property managed by independent series.
 
-# Licensees
+## Licensees
 
-## [Bougouriba](http://bougouriba.com)
+### [Bougouriba](http://bougouriba.com)
   * Datasets and community resources are at hosted at [Bougouriba.net](http://bougouriba.net)
   * The Bougouriba open community is managed according to the governance framework managed at [Bougouriba.org](http://bougouriba.org)
 
-## [Ouahigouya](http://ouahigouya.org)
+### [Ouahigouya](http://ouahigouya.org)
   * The Ouahigouya Organization participates in active
   development of technical products.
+
+## Specialized Areas of Expertise
+Each of the following Series represents a body of intellectual property
+with independent stakeholders.
+
+<dl>
+  <dt>ICTIA</dt>
+  <dd>
+  Identity, Credential, and Trust technology industry analytics.
+  </dd>
+  <dt>ABC</dt>
+  <dd>
+  Specific ICAO/SITA/IATA dimension of air border control
+  </dd>
+  <dt>IAS</dt>
+  <dd>
+  Key identity anchor systems.
+  </dd>
+  <dt>Legislation</dt>
+  <dd>
+  Global legislation, enforcement, successes, failures, and abuses.
+  </dd>
+</dl>
