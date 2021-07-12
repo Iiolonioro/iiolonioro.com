@@ -294,13 +294,14 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
       sidebar:
         nav: "dnav"
+      docurl:
+        ouahigouya: http://localhost:4005/
