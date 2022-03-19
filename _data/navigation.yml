@@ -2,3 +2,5 @@
 main:
  - title: Engage
    url: /engage
+ - title: Library
+   url: /glossary

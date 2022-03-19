@@ -7,28 +7,55 @@ title: Claim an Identifier
 ---
 
 <form id="form" accept-charset="UTF-8" action="https://iiolonioro.korsimoro.net/" method="POST">
-  <input type="password" name="key" placeholder="Identifier">
+  <input type="password" name="key" placeholder="Identifier - email, username, wallet address, did-document, etc">
   <input type="hidden" name="utf8" value="<<FROM SCRIPT ABOVE>>">
-  <button type="submit">Engage</button>
   <button onClick="triggerUpload()">Upload</button>
+  <button type="submit">Engage</button>
 </form>
 
-Feel free to paste a [DID](./glossary#did), a string, a small document,
-even a [DID Document](./glossary/did-document),
-upload public key, or anything else you feel comfortable sharing.  We'll
-check it out, and if it isn't quite right we'll let you know why.
+or scan this QR code to introduce your device and
+engage Iiolonioro using your device's resources.
 
-Scan this QR Code to introduce your device.
+<center><img src="/assets/images/NetQRCode.png" /></center>
 
-<img src="/assets/images/NetQRCode.png" />
+* [What you can type or paste](#What you can type or paste)
+* [What you can upload](#What you can upload)
+* [What you can get from the cloud](#What you can get from the cloud)
 
-Or download our App.
+## What you can type or paste
 
-<a href="." onClick="downloadApp()"><img src="/assets/images/applogos.svg" /></a>
+* Resolvable URLs
+  * [DID](./glossary#did)
+  * HTTPs
+* Unique Identifiers
+  * UUID
+  * email address
+  * url
+  * username
+  * LDAP
+  * DOI
+* Digital Credential
+  * X.509 Certificate
+  * Verifiable Credential
+* Files
+  * [DID Document](./glossary/did-document)
 
-## Page Feature ToDo
-- formats
-- add file upload button
+## What you can upload
 
+  * Resolvable URLs
+    * [DID](./glossary#did)
+    * HTTPs
+  * Unique Identifiers
+    * UUID
+    * email address
+    * url
+    * username
+    * LDAP
+    * DOI
+  * Digital Credential
+    * X.509 Certificate
+    * Verifiable Credential
+  * Files
+    * [DID Document](./glossary/did-document)
 
 <script src="/static/scripts/engage.js"></script>

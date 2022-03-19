@@ -13,6 +13,10 @@
     {% endif %}
 
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li><a href="./contact">Contact</a></li>
+    <li>Address</li>
+    <li>EIN - en route</li>
+    <li><a href="./cert-of-formation">Certificate of Formation</a></li>
   </ul>
 </div>
 
